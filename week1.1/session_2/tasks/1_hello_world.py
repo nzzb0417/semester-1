@@ -1,3 +1,4 @@
 # a basic Hello World program - write your code under this line
-print("hello world")
+python 1_hello_world.py
+
 
